@@ -57,7 +57,7 @@
     "jest": "^23.3.0",
     "jest-cli": "^23.3.0",
     "node-sass": "^4.9.1",
-    "sass-lint": "^1.12.1",
+    "sass-lint": "^1.13.0",
     "webpack-dev-server": "^2.9.5"
   },
   "metadata": {
